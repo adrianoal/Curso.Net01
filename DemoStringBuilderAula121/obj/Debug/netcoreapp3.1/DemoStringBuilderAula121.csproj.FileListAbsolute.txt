@@ -1,0 +1,13 @@
+C:\Users\aalima5\Desktop\Code C#\DemoStringBuilderAula121\DemoStringBuilderAula121\bin\Debug\netcoreapp3.1\DemoStringBuilderAula121.exe
+C:\Users\aalima5\Desktop\Code C#\DemoStringBuilderAula121\DemoStringBuilderAula121\bin\Debug\netcoreapp3.1\DemoStringBuilderAula121.deps.json
+C:\Users\aalima5\Desktop\Code C#\DemoStringBuilderAula121\DemoStringBuilderAula121\bin\Debug\netcoreapp3.1\DemoStringBuilderAula121.runtimeconfig.json
+C:\Users\aalima5\Desktop\Code C#\DemoStringBuilderAula121\DemoStringBuilderAula121\bin\Debug\netcoreapp3.1\DemoStringBuilderAula121.runtimeconfig.dev.json
+C:\Users\aalima5\Desktop\Code C#\DemoStringBuilderAula121\DemoStringBuilderAula121\bin\Debug\netcoreapp3.1\DemoStringBuilderAula121.dll
+C:\Users\aalima5\Desktop\Code C#\DemoStringBuilderAula121\DemoStringBuilderAula121\bin\Debug\netcoreapp3.1\DemoStringBuilderAula121.pdb
+C:\Users\aalima5\Desktop\Code C#\DemoStringBuilderAula121\DemoStringBuilderAula121\obj\Debug\netcoreapp3.1\DemoStringBuilderAula121.csprojAssemblyReference.cache
+C:\Users\aalima5\Desktop\Code C#\DemoStringBuilderAula121\DemoStringBuilderAula121\obj\Debug\netcoreapp3.1\DemoStringBuilderAula121.csproj.CoreCompileInputs.cache
+C:\Users\aalima5\Desktop\Code C#\DemoStringBuilderAula121\DemoStringBuilderAula121\obj\Debug\netcoreapp3.1\DemoStringBuilderAula121.AssemblyInfoInputs.cache
+C:\Users\aalima5\Desktop\Code C#\DemoStringBuilderAula121\DemoStringBuilderAula121\obj\Debug\netcoreapp3.1\DemoStringBuilderAula121.AssemblyInfo.cs
+C:\Users\aalima5\Desktop\Code C#\DemoStringBuilderAula121\DemoStringBuilderAula121\obj\Debug\netcoreapp3.1\DemoStringBuilderAula121.dll
+C:\Users\aalima5\Desktop\Code C#\DemoStringBuilderAula121\DemoStringBuilderAula121\obj\Debug\netcoreapp3.1\DemoStringBuilderAula121.pdb
+C:\Users\aalima5\Desktop\Code C#\DemoStringBuilderAula121\DemoStringBuilderAula121\obj\Debug\netcoreapp3.1\DemoStringBuilderAula121.genruntimeconfig.cache
